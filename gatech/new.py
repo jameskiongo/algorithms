@@ -10,9 +10,6 @@ class Person:
         self.eyecolor = "blue"
         self.age = 1
 
-    def __str__(self):
-        print(name)
-
 
 person = Person()
 
